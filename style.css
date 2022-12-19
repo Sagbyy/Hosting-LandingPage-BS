@@ -6,3 +6,8 @@
 video {
     object-fit: cover;
 }
+
+.parallax {
+    background: url(./assets/parallax.jpg) no-repeat bottom / cover fixed; 
+    min-height: 250px;
+}
